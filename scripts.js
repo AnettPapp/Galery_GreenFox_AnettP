@@ -6,9 +6,12 @@ let data = {
     description: 'kiskutya'
   };
   
-  $('#photo').attr('src', data.photo);
+//let photo = ;
+
+$('photo').attr('src', data.photo);
 
   //Az aktuális fotó kiválasztva
-  let currentPhoto = 0;
-let imagesData = [...];
-$('#photo').attr('src', imagesData[currentPhoto].photo);
+//  let data = 0;
+//let imagesData = [...];
+//$('#photo').attr('src', imagesData[currentPhoto].photo);
+
